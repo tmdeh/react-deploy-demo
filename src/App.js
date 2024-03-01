@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        첫 배포 입니다.
         </a>
       </header>
     </div>
